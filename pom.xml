@@ -59,6 +59,10 @@
   </distributionManagement>
 
   <properties>
+
+    <sonar.login>admin</sonar.login>
+    <sonar.password>op14092003</sonar.password>     
+         
     <clirr.comparisonVersion>1.0.3</clirr.comparisonVersion>
     <findbugs.onlyAnalyze>org.mybatis.caches.redis.*</findbugs.onlyAnalyze>
     <gcu.product>Cache</gcu.product>
